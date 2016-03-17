@@ -49,7 +49,6 @@ class TableViewController: UITableViewController {
         cell.accessoryType = .DisclosureIndicator
         cell.customLabel.text = "WORK!"
         
-        
         return cell
     }
     
